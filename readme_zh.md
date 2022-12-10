@@ -12,7 +12,7 @@
 | openai     | 0.25.0 |
 
 ## 設定
-[OpenAI-Chat-Discord-Bot/main.py](https://github.com/FanYueee/OpenAI-Chat-Discord-Bot/blob/main/config.json)
+[OpenAI-Chat-Discord-Bot/main.py](https://github.com/FanYueee/OpenAI-Chat-Discord-Bot/blob/main/main.py)
 ```py
 openai.api_key = ""
 Discord_Bot_Token = ""

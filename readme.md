@@ -14,7 +14,7 @@ Only represents the version used during development. It does not mean that other
 | openai      | 0.25.0  |
 
 ## Settings
-[OpenAI-Chat-Discord-Bot/main.py](https://github.com/FanYueee/OpenAI-Chat-Discord-Bot/blob/main/config.json)
+[OpenAI-Chat-Discord-Bot/main.py](https://github.com/FanYueee/OpenAI-Chat-Discord-Bot/blob/main/main.py)
 ```py
 openai.api_key = ""
 Discord_Bot_Token = ""

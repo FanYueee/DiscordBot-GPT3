@@ -41,7 +41,7 @@ async def on_message(message):
                     await message.channel.send(response[i:i + 1000])
                     end_time = time.perf_counter()
                 print("-------------------Content End-------------------")
-                print("Total Return Time:",round(end_time - start_time,2),"秒")
+                print("Total Return Time:",round(end_time - start_time,2),"s")
                 print("-------------------Processing End-------------------")
             except:
                 await message.channel.send("Oops! There seems to be no reverse transmission message")
